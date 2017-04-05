@@ -10,16 +10,17 @@ How-to
 To fetch assets you need the [`git`](https://git-scm.com/) version control system, and to build them you need the [`urcheon`](https://github.com/illwieckz/Urcheon) build tool, and its dependencies.
 
 
-### Clone this repository
+### Clone this repository, enter it
 
 ```sh
 git clone https://github.com/UnvanquishedAssets/UnvanquishedAssets.git
+cd UnvanquishedAssets
 ```
 
-### Initialise every set
+### Clone every set
 
 ```
-make init
+make clone
 ```
 
 ### Pull updates for every set

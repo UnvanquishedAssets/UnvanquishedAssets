@@ -6,11 +6,11 @@ export PAKPATH := ${ROOT_DIR}/src:$(PAKPATH)
 
 all: package
 
-init:
+clone:
 	git submodule update --init --recursive
 
 pull:
-	git submodule foreach git pull origin master
+	git submodule foreach git pull
 
 prepare:
 	urcheon prepare src/*.dpkdir
