@@ -1,0 +1,60 @@
+[submodule "src/res-beacons_src.dpkdir"]
+	path = src/res-beacons_src.dpkdir
+	url = ../res-beacons_src.dpkdir
+[submodule "src/res-buildables_src.dpkdir"]
+	path = src/res-buildables_src.dpkdir
+	url = ../res-buildables_src.dpkdir
+[submodule "src/res-emoticons_src.dpkdir"]
+	path = src/res-emoticons_src.dpkdir
+	url = ../res-emoticons_src.dpkdir
+[submodule "src/res-legacysounds_src.dpkdir"]
+	path = src/res-legacysounds_src.dpkdir
+	url = ../res-legacysounds_src.dpkdir
+[submodule "src/res-players_src.dpkdir"]
+	path = src/res-players_src.dpkdir
+	url = ../res-players_src.dpkdir
+[submodule "src/res-sounds_src.dpkdir"]
+	path = src/res-sounds_src.dpkdir
+	url = ../res-sounds_src.dpkdir
+[submodule "src/res-soundtrack_src.dpkdir"]
+	path = src/res-soundtrack_src.dpkdir
+	url = ../res-soundtrack_src.dpkdir
+[submodule "src/res-voices_src.dpkdir"]
+	path = src/res-voices_src.dpkdir
+	url = ../res-voices_src.dpkdir
+[submodule "src/res-weapons_src.dpkdir"]
+	path = src/res-weapons_src.dpkdir
+	url = ../res-weapons_src.dpkdir
+[submodule "src/tex-all_src.dpkdir"]
+	path = src/tex-all_src.dpkdir
+	url = ../tex-all_src.dpkdir
+[submodule "src/tex-common_src.dpkdir"]
+	path = src/tex-common_src.dpkdir
+	url = ../tex-common_src.dpkdir
+[submodule "src/tex-ej01_src.dpkdir"]
+	path = src/tex-ej01_src.dpkdir
+	url = ../tex-ej01_src.dpkdir
+[submodule "src/tex-exm_src.dpkdir"]
+	path = src/tex-exm_src.dpkdir
+	url = ../tex-exm_src.dpkdir
+[submodule "src/tex-ex_src.dpkdir"]
+	path = src/tex-ex_src.dpkdir
+	url = ../tex-ex_src.dpkdir
+[submodule "src/tex-pk01_src.dpkdir"]
+	path = src/tex-pk01_src.dpkdir
+	url = ../tex-pk01_src.dpkdir
+[submodule "src/tex-pk02_src.dpkdir"]
+	path = src/tex-pk02_src.dpkdir
+	url = ../tex-pk02_src.dpkdir
+[submodule "src/tex-space_src.dpkdir"]
+	path = src/tex-space_src.dpkdir
+	url = ../tex-space_src.dpkdir
+[submodule "src/tex-tech_src.dpkdir"]
+	path = src/tex-tech_src.dpkdir
+	url = ../tex-tech_src.dpkdir
+[submodule "src/tex-trak5_src.dpkdir"]
+	path = src/tex-trak5_src.dpkdir
+	url = ../tex-trak5_src.dpkdir
+[submodule "src/unvanquished_src.dpkdir"]
+	path = src/unvanquished_src.dpkdir
+	url = ../unvanquished_src.dpkdir
