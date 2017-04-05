@@ -16,10 +16,16 @@ To fetch assets you need the [`git`](https://git-scm.com/) version control syste
 git clone https://github.com/UnvanquishedAssets/UnvanquishedAssets.git
 ```
 
-### Fetch everything
+### Initialise every set
 
 ```
 make init
+```
+
+### Pull updates for every set
+
+```
+make pull
 ```
 
 ### Prepare assets for mapping (generate preview images and shaders for example)
@@ -30,7 +36,7 @@ make prepare
 
 You can now use `src/` as a pakpath in `radiant`/`q3map2`.
 
-### Build test dpkdir (using final formats) for everything
+### Build test dpkdir (using final formats) for every set
 
 ```sh
 make build
@@ -38,7 +44,7 @@ make build
 
 You can now use `build/test` as pakpath in `daemon`.
 
-### Packaging final release dpk for everything
+### Packaging final release dpk for every set
 
 ```sh
 make package
