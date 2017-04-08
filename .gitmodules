@@ -1,30 +1,24 @@
-[submodule "src/res-beacons_src.dpkdir"]
-	path = src/res-beacons_src.dpkdir
-	url = ../res-beacons_src.dpkdir
-[submodule "src/res-buildables_src.dpkdir"]
-	path = src/res-buildables_src.dpkdir
-	url = ../res-buildables_src.dpkdir
-[submodule "src/res-emoticons_src.dpkdir"]
-	path = src/res-emoticons_src.dpkdir
-	url = ../res-emoticons_src.dpkdir
-[submodule "src/res-legacysounds_src.dpkdir"]
-	path = src/res-legacysounds_src.dpkdir
-	url = ../res-legacysounds_src.dpkdir
 [submodule "src/res-players_src.dpkdir"]
 	path = src/res-players_src.dpkdir
 	url = ../res-players_src.dpkdir
-[submodule "src/res-sounds_src.dpkdir"]
-	path = src/res-sounds_src.dpkdir
-	url = ../res-sounds_src.dpkdir
-[submodule "src/res-soundtrack_src.dpkdir"]
-	path = src/res-soundtrack_src.dpkdir
-	url = ../res-soundtrack_src.dpkdir
-[submodule "src/res-voices_src.dpkdir"]
-	path = src/res-voices_src.dpkdir
-	url = ../res-voices_src.dpkdir
 [submodule "src/res-weapons_src.dpkdir"]
 	path = src/res-weapons_src.dpkdir
 	url = ../res-weapons_src.dpkdir
+[submodule "src/res-buildables_src.dpkdir"]
+	path = src/res-buildables_src.dpkdir
+	url = ../res-buildables_src.dpkdir
+[submodule "src/res-ambiant_src.dpkdir"]
+	path = src/res-ambiant_src.dpkdir
+	url = ../res-ambiant_src.dpkdir
+[submodule "src/res-feedback_src.dpkdir"]
+	path = src/res-feedback_src.dpkdir
+	url = ../res-feedback_src.dpkdir
+[submodule "src/res-soundtrack_src.dpkdir"]
+	path = src/res-soundtrack_src.dpkdir
+	url = ../res-soundtrack_src.dpkdir
+[submodule "src/res-legacy_src.dpkdir"]
+	path = src/res-legacy_src.dpkdir
+	url = ../res-legacy_src.dpkdir
 [submodule "src/tex-all_src.dpkdir"]
 	path = src/tex-all_src.dpkdir
 	url = ../tex-all_src.dpkdir
