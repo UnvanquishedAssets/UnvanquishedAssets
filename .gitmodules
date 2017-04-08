@@ -7,9 +7,9 @@
 [submodule "src/res-buildables_src.dpkdir"]
 	path = src/res-buildables_src.dpkdir
 	url = ../res-buildables_src.dpkdir
-[submodule "src/res-ambiant_src.dpkdir"]
-	path = src/res-ambiant_src.dpkdir
-	url = ../res-ambiant_src.dpkdir
+[submodule "src/res-ambient_src.dpkdir"]
+	path = src/res-ambient_src.dpkdir/
+	url = ../res-ambient_src.dpkdir
 [submodule "src/res-feedback_src.dpkdir"]
 	path = src/res-feedback_src.dpkdir
 	url = ../res-feedback_src.dpkdir
