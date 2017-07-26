@@ -3,8 +3,8 @@ Unvanquished Assets
 
 This is a set of repositories tracking assets for the [Unvanquished](https://www.unvanquished.net) game.
 
-Respositories
--------------
+Repositories
+------------
 
 Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
