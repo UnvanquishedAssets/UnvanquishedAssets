@@ -6,7 +6,7 @@ This is a set of repositories tracking assets for the [Unvanquished](https://www
 Respositories
 -------------
 
-Assets already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
+Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
 - [`res-ambient_src.dpkdir`](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir)
 - [`res-buildables_src.dpkdir`](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir)
@@ -27,14 +27,14 @@ Assets already tracked under [_UnvanquishedAssets_](https://github.com/Unvanquis
 - [`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir)
 - [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
 
-Some assets are currently tracked elsewhere:
+Some assets packages are currently tracked elsewhere:
 
 - [`map-chasm`](https://github.com/JacksonTech/map-chasm)
 - [`map-spacetracks`](https://github.com/JacksonTech/map-spacetracks)
 - [`map-station15`](https://github.com/JacksonTech/map-station15)
 - [`map-vega`](https://github.com/IngarKCT/map-vega) (also contains `tex-vega`)
 
-Somme assets are not yet tracked:
+Somme assets packages are yet to be tracked on repositories:
 
 - `map-antares`
 - `map-forlorn`
