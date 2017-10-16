@@ -3,6 +3,7 @@ Unvanquished Assets
 
 This is a set of repositories tracking assets for the [Unvanquished](https://www.unvanquished.net) game.
 
+
 Repositories
 ------------
 
@@ -27,22 +28,26 @@ Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/
 - [`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir)
 - [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
 
-Some assets packages are currently tracked elsewhere:
+Some map packages are currently tracked elsewhere:
 
 - [`map-chasm`](https://github.com/JacksonTech/map-chasm)
 - [`map-spacetracks`](https://github.com/JacksonTech/map-spacetracks)
 - [`map-station15`](https://github.com/JacksonTech/map-station15)
-- [`map-vega`](https://github.com/IngarKCT/map-vega) (also contains `tex-vega`)
+- [`map-vega`](https://github.com/IngarKCT/map-vega) (also contains `tex-vega` package)
 
-Somme assets packages are yet to be tracked on repositories:
+Somme map packages have empty repositories at this time but have already populated issue tracker:
 
-- `map-antares`
+- [`map-antares_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues)
+- [`map-perseus_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/issues)
+- [`map-thunder_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/issues)
+- [`map-yocto_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/issues)
+
+Somme map packages are yet to be tracked on repositories:
+
 - `map-forlorn`
 - `map-parpax`
-- `map-perseus`
 - `map-plat23`
-- `map-thunder`
-- `map-yocto`
+
 
 How-to
 ------
