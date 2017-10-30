@@ -1,3 +1,6 @@
+[submodule "src/map-vega_src.dpkdir"]
+	path = src/map-vega_src.dpkdir
+	url = ../map-vega_src.dpkdir
 [submodule "src/res-players_src.dpkdir"]
 	path = src/res-players_src.dpkdir
 	url = ../res-players_src.dpkdir
@@ -49,6 +52,9 @@
 [submodule "src/tex-trak5_src.dpkdir"]
 	path = src/tex-trak5_src.dpkdir
 	url = ../tex-trak5_src.dpkdir
+[submodule "src/tex-vega_src.dpkdir"]
+	path = src/tex-vega_src.dpkdir
+	url = ../tex-vega_src.dpkdir
 [submodule "src/unvanquished_src.dpkdir"]
 	path = src/unvanquished_src.dpkdir
 	url = ../unvanquished_src.dpkdir

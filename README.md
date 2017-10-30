@@ -9,6 +9,7 @@ Repositories
 
 Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
+- [`map-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir)
 - [`res-ambient_src.dpkdir`](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir)
 - [`res-buildables_src.dpkdir`](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir)
 - [`res-feedback_src.dpkdir`](https://github.com/UnvanquishedAssets/res-feedback_src.dpkdir)
@@ -26,6 +27,7 @@ Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/
 - [`tex-space_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir)
 - [`tex-tech_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-tech_src.dpkdir)
 - [`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir)
+- [`tex-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir)
 - [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
 
 Some map packages are currently tracked elsewhere:
@@ -33,16 +35,15 @@ Some map packages are currently tracked elsewhere:
 - [`map-chasm`](https://github.com/JacksonTech/map-chasm)
 - [`map-spacetracks`](https://github.com/JacksonTech/map-spacetracks)
 - [`map-station15`](https://github.com/JacksonTech/map-station15)
-- [`map-vega`](https://github.com/IngarKCT/map-vega) (also contains `tex-vega` package)
 
-Somme map packages have empty repositories at this time but have already populated issue tracker:
+Some map packages have empty repositories at this time but already have populated issue tracker:
 
 - [`map-antares_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues)
 - [`map-perseus_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/issues)
 - [`map-thunder_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/issues)
 - [`map-yocto_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/issues)
 
-Somme map packages are yet to be tracked on repositories:
+Some map packages are yet to be tracked on repositories:
 
 - `map-forlorn`
 - `map-parpax`
