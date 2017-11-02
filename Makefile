@@ -1,9 +1,5 @@
 .DEFAULT_GOAL := all
 
-ROOT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-export BUILDPREFIX = ${ROOT_DIR}/build
-export PAKPATH := ${ROOT_DIR}/src:$(PAKPATH)
-
 all: package
 
 clone:
