@@ -39,6 +39,7 @@ Some map packages are currently tracked elsewhere:
 Some map packages have empty repositories at this time but already have populated issue tracker:
 
 - [`map-antares_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues)
+- [`map-parpax_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/issues)
 - [`map-perseus_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/issues)
 - [`map-thunder_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/issues)
 - [`map-yocto_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/issues)
@@ -46,7 +47,6 @@ Some map packages have empty repositories at this time but already have populate
 Some map packages are yet to be tracked on repositories:
 
 - `map-forlorn`
-- `map-parpax`
 - `map-plat23`
 
 
