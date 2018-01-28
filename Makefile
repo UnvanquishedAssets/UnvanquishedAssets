@@ -2,11 +2,16 @@
 
 all: package
 
-clone:
+init:
 	git submodule update --init --recursive
+
+checkout:
+	git submodule foreach git checkout master
 
 pull:
 	git submodule foreach git pull
+
+clone: init checkout pull
 
 prepare:
 	urcheon prepare src/*.dpkdir
