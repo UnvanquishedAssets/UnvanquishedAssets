@@ -1,1 +1,5 @@
 build/
+pkg/
+src/maps/
+src/prefabs/
+src/scripts/
