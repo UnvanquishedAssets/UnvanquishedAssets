@@ -58,3 +58,12 @@
 [submodule "src/unvanquished_src.dpkdir"]
 	path = src/unvanquished_src.dpkdir
 	url = ../unvanquished_src.dpkdir
+[submodule "src/map-spacetracks_src.dpkdir"]
+	path = src/map-spacetracks_src.dpkdir
+	url = ../map-spacetracks_src.dpkdir
+[submodule "src/map-station15_src.dpkdir"]
+	path = src/map-station15_src.dpkdir
+	url = ../map-station15_src.dpkdir
+[submodule "src/map-chasm_src.dpkdir"]
+	path = src/map-chasm_src.dpkdir
+	url = ../map-chasm_src.dpkdir
