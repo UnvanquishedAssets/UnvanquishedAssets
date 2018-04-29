@@ -1,27 +1,48 @@
+[submodule "src/map-chasm_src.dpkdir"]
+	path = src/map-chasm_src.dpkdir
+	url = ../map-chasm_src.dpkdir
+[submodule "src/map-perseus_src.dpkdir"]
+	path = src/map-perseus_src.dpkdir
+	url = ../map-perseus_src.dpkdir
+[submodule "src/map-plat23_src.dpkdir"]
+	path = src/map-plat23_src.dpkdir
+	url = ../map-plat23_src.dpkdir
+[submodule "src/map-spacetracks_src.dpkdir"]
+	path = src/map-spacetracks_src.dpkdir
+	url = ../map-spacetracks_src.dpkdir
+[submodule "src/map-station15_src.dpkdir"]
+	path = src/map-station15_src.dpkdir
+	url = ../map-station15_src.dpkdir
+[submodule "src/map-thunder_src.dpkdir"]
+	path = src/map-thunder_src.dpkdir
+	url = ../map-thunder_src.dpkdir
+[submodule "src/map-yocto_src.dpkdir"]
+	path = src/map-yocto_src.dpkdir
+	url = ../map-yocto_src.dpkdir
 [submodule "src/map-vega_src.dpkdir"]
 	path = src/map-vega_src.dpkdir
 	url = ../map-vega_src.dpkdir
-[submodule "src/res-players_src.dpkdir"]
-	path = src/res-players_src.dpkdir
-	url = ../res-players_src.dpkdir
-[submodule "src/res-weapons_src.dpkdir"]
-	path = src/res-weapons_src.dpkdir
-	url = ../res-weapons_src.dpkdir
-[submodule "src/res-buildables_src.dpkdir"]
-	path = src/res-buildables_src.dpkdir
-	url = ../res-buildables_src.dpkdir
 [submodule "src/res-ambient_src.dpkdir"]
 	path = src/res-ambient_src.dpkdir
 	url = ../res-ambient_src.dpkdir
+[submodule "src/res-buildables_src.dpkdir"]
+	path = src/res-buildables_src.dpkdir
+	url = ../res-buildables_src.dpkdir
+[submodule "src/res-legacy_src.dpkdir"]
+	path = src/res-legacy_src.dpkdir
+	url = ../res-legacy_src.dpkdir
+[submodule "src/res-players_src.dpkdir"]
+	path = src/res-players_src.dpkdir
+	url = ../res-players_src.dpkdir
 [submodule "src/res-soundtrack_src.dpkdir"]
 	path = src/res-soundtrack_src.dpkdir
 	url = ../res-soundtrack_src.dpkdir
 [submodule "src/res-voices_src.dpkdir"]
 	path = src/res-voices_src.dpkdir
 	url = ../res-voices_src.dpkdir
-[submodule "src/res-legacy_src.dpkdir"]
-	path = src/res-legacy_src.dpkdir
-	url = ../res-legacy_src.dpkdir
+[submodule "src/res-weapons_src.dpkdir"]
+	path = src/res-weapons_src.dpkdir
+	url = ../res-weapons_src.dpkdir
 [submodule "src/tex-all_src.dpkdir"]
 	path = src/tex-all_src.dpkdir
 	url = ../tex-all_src.dpkdir
@@ -31,12 +52,12 @@
 [submodule "src/tex-ej01_src.dpkdir"]
 	path = src/tex-ej01_src.dpkdir
 	url = ../tex-ej01_src.dpkdir
-[submodule "src/tex-exm_src.dpkdir"]
-	path = src/tex-exm_src.dpkdir
-	url = ../tex-exm_src.dpkdir
 [submodule "src/tex-ex_src.dpkdir"]
 	path = src/tex-ex_src.dpkdir
 	url = ../tex-ex_src.dpkdir
+[submodule "src/tex-exm_src.dpkdir"]
+	path = src/tex-exm_src.dpkdir
+	url = ../tex-exm_src.dpkdir
 [submodule "src/tex-pk01_src.dpkdir"]
 	path = src/tex-pk01_src.dpkdir
 	url = ../tex-pk01_src.dpkdir
@@ -58,12 +79,3 @@
 [submodule "src/unvanquished_src.dpkdir"]
 	path = src/unvanquished_src.dpkdir
 	url = ../unvanquished_src.dpkdir
-[submodule "src/map-spacetracks_src.dpkdir"]
-	path = src/map-spacetracks_src.dpkdir
-	url = ../map-spacetracks_src.dpkdir
-[submodule "src/map-station15_src.dpkdir"]
-	path = src/map-station15_src.dpkdir
-	url = ../map-station15_src.dpkdir
-[submodule "src/map-chasm_src.dpkdir"]
-	path = src/map-chasm_src.dpkdir
-	url = ../map-chasm_src.dpkdir
