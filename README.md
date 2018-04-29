@@ -10,9 +10,13 @@ Repositories
 Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
 - [`map-chasm_src.dpkdir`](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir)
+- [`map-perseus_src.dpkdir`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir)
+- [`map-plat23_src.dpkdir`](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir)
 - [`map-spacetracks_src.dpkdir`](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir)
 - [`map-station15_src.dpkdir`](https://github.com/UnvanquishedAssets/map-station15_src.dpkdir)
+- [`map-thunder_src.dpkdir`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir)
 - [`map-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir)
+- [`map-yocto_src.dpkdir`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir)
 - [`res-ambient_src.dpkdir`](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir)
 - [`res-buildables_src.dpkdir`](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir)
 - [`res-legacy_src.dpkdir`](https://github.com/UnvanquishedAssets/res-legacy_src.dpkdir)
@@ -37,14 +41,10 @@ Some map packages have empty repositories at this time but already have populate
 
 - [`map-antares_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues)
 - [`map-parpax_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/issues)
-- [`map-perseus_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/issues)
-- [`map-thunder_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/issues)
-- [`map-yocto_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/issues)
 
-Some map packages are yet to be tracked on repositories:
+This map package is yet to be tracked on repository:
 
 - `map-forlorn`
-- `map-plat23`
 
 
 How-to

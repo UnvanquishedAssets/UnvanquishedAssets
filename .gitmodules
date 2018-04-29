@@ -16,12 +16,12 @@
 [submodule "src/map-thunder_src.dpkdir"]
 	path = src/map-thunder_src.dpkdir
 	url = ../map-thunder_src.dpkdir
-[submodule "src/map-yocto_src.dpkdir"]
-	path = src/map-yocto_src.dpkdir
-	url = ../map-yocto_src.dpkdir
 [submodule "src/map-vega_src.dpkdir"]
 	path = src/map-vega_src.dpkdir
 	url = ../map-vega_src.dpkdir
+[submodule "src/map-yocto_src.dpkdir"]
+	path = src/map-yocto_src.dpkdir
+	url = ../map-yocto_src.dpkdir
 [submodule "src/res-ambient_src.dpkdir"]
 	path = src/res-ambient_src.dpkdir
 	url = ../res-ambient_src.dpkdir
