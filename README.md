@@ -60,13 +60,13 @@ git clone https://github.com/UnvanquishedAssets/UnvanquishedAssets.git
 cd UnvanquishedAssets
 ```
 
-### Clone every set
+### Clone every package
 
 ```
 make clone
 ```
 
-### Pull updates for every set
+### Pull updates for every package
 
 ```
 make pull
@@ -78,9 +78,9 @@ make pull
 make prepare
 ```
 
-You can now use `src/` as a pakpath in `radiant`/`q3map2`.
+You can now use `src/` as a pakpath in `radiant` and with `q3map2`.
 
-### Build test dpkdir (using final formats) for every set
+### Build test dpkdir (using final formats) for every package
 
 ```sh
 make build
@@ -88,7 +88,7 @@ make build
 
 You can now use `build/test` as pakpath in `daemon`.
 
-### Packaging final release dpk for every set
+### Packaging final release dpk for every package
 
 ```sh
 make package
