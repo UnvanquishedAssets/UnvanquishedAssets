@@ -9,6 +9,7 @@ Repositories
 
 Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
+- [`map-antares_src.dpkdir`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir)
 - [`map-chasm_src.dpkdir`](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir)
 - [`map-perseus_src.dpkdir`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir)
 - [`map-plat23_src.dpkdir`](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir)
@@ -37,9 +38,8 @@ Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/
 - [`tex-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir)
 - [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
 
-Some map packages have empty repositories at this time but already have populated issue tracker:
+This map package has empty public repository at this time but already has populated issue tracker:
 
-- [`map-antares_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues)
 - [`map-parpax_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/issues)
 
 This map package is yet to be tracked on repository:

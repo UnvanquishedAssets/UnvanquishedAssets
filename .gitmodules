@@ -1,3 +1,6 @@
+[submodule "src/map-antares_src.dpkdir"]
+	path = src/map-antares_src.dpkdir
+	url = ../map-antares_src.dpkdir
 [submodule "src/map-chasm_src.dpkdir"]
 	path = src/map-chasm_src.dpkdir
 	url = ../map-chasm_src.dpkdir
