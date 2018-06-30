@@ -1,5 +1,6 @@
-build/
-pkg/
-src/maps/
-src/prefabs/
-src/scripts/
+/XMLDump.xml
+/build/
+/pkg/
+/src/maps/
+/src/prefabs/
+/src/scripts/
