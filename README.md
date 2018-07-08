@@ -47,7 +47,7 @@ This map package has empty public repository at this time but already has popula
 How-to
 ------
 
-To fetch assets you need the [`git`](https://git-scm.com/) version control system, and to build them you need the [`urcheon`](https://github.com/illwieckz/Urcheon) build tool, and its dependencies.
+To fetch assets you need the [`git`](https://git-scm.com/) version control system, and to build them you need the [`urcheon`](https://github.com/DaemonEngine/Urcheon) build tool, and its dependencies.
 
 
 ### Clone this repository, enter it
