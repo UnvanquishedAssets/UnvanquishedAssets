@@ -55,9 +55,5 @@ build_textures: prepare_textures
 package_textures: build_textures
 	urcheon package ${EXTRA_ARGS} src/tex-*_src.dpkdir
 
-snapshot: prepare
-	test ! -f build/UnvanquishedAssets.7z || rm build/UnvanquishedAssets.7z
-	7z -mx=9 a build/UnvanquishedAssets.7z src/*.dpkdir .setinfo Makefile README.md
-
 clean:
 	urcheon clean ${EXTRA_ARGS} src/*.dpkdir
