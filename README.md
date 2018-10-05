@@ -7,11 +7,12 @@ This is a set of repositories tracking assets for the [Unvanquished](https://www
 Repositories
 ------------
 
-Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
+Assets packages tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
 - [`map-antares_src.dpkdir`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir)
 - [`map-chasm_src.dpkdir`](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir)
 - [`map-forlorn_src.dpkdir`](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir)
+- [`map-parpax_src.dpkdir`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir)
 - [`map-perseus_src.dpkdir`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir)
 - [`map-plat23_src.dpkdir`](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir)
 - [`map-spacetracks_src.dpkdir`](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir)
@@ -38,10 +39,6 @@ Assets packages already tracked under [_UnvanquishedAssets_](https://github.com/
 - [`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir)
 - [`tex-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir)
 - [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
-
-This map package has empty public repository at this time but already has populated issue tracker:
-
-- [`map-parpax_src.dpkdir/issues`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/issues)
 
 
 How-to
