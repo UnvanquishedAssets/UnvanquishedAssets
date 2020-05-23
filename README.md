@@ -60,10 +60,18 @@ cd UnvanquishedAssets
 make clone
 ```
 
-### Pull updates for every package
+### Fetch updates for every package
 
 ```
-make pull
+make fetch
+```
+
+### Checkout reference for every package
+
+It defaults to `master` if `GIT_REF` is not set
+
+```
+make checkout GIT_REF='unvanquished/0.51.1'
 ```
 
 ### Prepare assets for mapping (generate preview images and shaders for example)

@@ -6,18 +6,26 @@ else
 	EXTRA_ARGS :=
 endif
 
+ifneq ($(GIT_REF),)
+	GIT_REF := ${GIT_REF}
+else
+	GIT_REF := master
+endif
+
 all: package
 
 init:
 	git submodule update --init --recursive
 
+fetch:
+	git fetch
+	git submodule foreach git fetch
+
 checkout:
-	git submodule foreach git checkout master
+	git checkout ${GIT_REF}
+	git submodule foreach git checkout ${GIT_REF}
 
-pull:
-	git submodule foreach git pull
-
-clone: init checkout pull
+clone: init fetch checkout
 
 prepare:
 	urcheon prepare ${EXTRA_ARGS} src/*_src.dpkdir
