@@ -1,7 +1,7 @@
 Unvanquished Assets
 ===================
 
-This is a set of repositories tracking assets for the [Unvanquished](https://www.unvanquished.net) game.
+This is a set of repositories tracking assets for the [Unvanquished](https://unvanquished.net) game.
 
 
 Repositories
@@ -9,40 +9,42 @@ Repositories
 
 Assets packages tracked under [_UnvanquishedAssets_](https://github.com/UnvanquishedAssets/UnvanquishedAssets) umbrella:
 
-- [`map-antares_src.dpkdir`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir)
-- [`map-chasm_src.dpkdir`](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir)
-- [`map-forlorn_src.dpkdir`](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir)
-- [`map-parpax_src.dpkdir`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir)
-- [`map-perseus_src.dpkdir`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir)
-- [`map-plat23_src.dpkdir`](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir)
-- [`map-spacetracks_src.dpkdir`](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir)
-- [`map-station15_src.dpkdir`](https://github.com/UnvanquishedAssets/map-station15_src.dpkdir)
-- [`map-thunder_src.dpkdir`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir)
-- [`map-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir)
-- [`map-yocto_src.dpkdir`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir)
-- [`res-ambient_src.dpkdir`](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir)
-- [`res-buildables_src.dpkdir`](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir)
-- [`res-legacy_src.dpkdir`](https://github.com/UnvanquishedAssets/res-legacy_src.dpkdir)
-- [`res-players_src.dpkdir`](https://github.com/UnvanquishedAssets/res-players_src.dpkdir)
-- [`res-soundtrack_src.dpkdir`](https://github.com/UnvanquishedAssets/res-soundtrack_src.dpkdir)
-- [`res-voices_src.dpkdir`](https://github.com/UnvanquishedAssets/res-voices_src.dpkdir)
-- [`res-weapons_src.dpkdir`](https://github.com/UnvanquishedAssets/res-weapons_src.dpkdir)
-- [`tex-all_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-all_src.dpkdir)
-- [`tex-common_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir)
-- [`tex-ej01_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir)
-- [`tex-exm_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-exm_src.dpkdir)
-- [`tex-ex_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir)
-- [`tex-pk01_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-pk01_src.dpkdir)
-- [`tex-pk02_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-pk02_src.dpkdir)
-- [`tex-space_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir)
-- [`tex-tech_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-tech_src.dpkdir)
-- [`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir)
-- [`tex-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir)
-- [`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir)
+Repository | Issues | Merges
+-----------|--------|-------
+[`map-antares_src.dpkdir`](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-antares_src.dpkdir/pulls)
+[`map-chasm_src.dpkdir`](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-chasm_src.dpkdir/pulls)
+[`map-forlorn_src.dpkdir`](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir/pulls)
+[`map-parpax_src.dpkdir`](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-parpax_src.dpkdir/pulls)
+[`map-perseus_src.dpkdir`](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-perseus_src.dpkdir/pulls)
+[`map-plat23_src.dpkdir`](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-plat23_src.dpkdir/pulls)
+[`map-spacetracks_src.dpkdir`](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-spacetracks_src.dpkdir/pulls)
+[`map-station15_src.dpkdir`](https://github.com/UnvanquishedAssets/map-station15_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-station15_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-station15_src.dpkdir/pulls)
+[`map-thunder_src.dpkdir`](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-thunder_src.dpkdir/pulls)
+[`map-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir/pulls)
+[`map-yocto_src.dpkdir`](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/map-yocto_src.dpkdir/pulls)
+[`res-ambient_src.dpkdir`](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-ambient_src.dpkdir/pulls)
+[`res-buildables_src.dpkdir`](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-buildables_src.dpkdir/pulls)
+[`res-legacy_src.dpkdir`](https://github.com/UnvanquishedAssets/res-legacy_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-legacy_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-legacy_src.dpkdir/pulls)
+[`res-players_src.dpkdir`](https://github.com/UnvanquishedAssets/res-players_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-players_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-players_src.dpkdir/pulls)
+[`res-soundtrack_src.dpkdir`](https://github.com/UnvanquishedAssets/res-soundtrack_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-soundtrack_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-soundtrack_src.dpkdir/pulls)
+[`res-voices_src.dpkdir`](https://github.com/UnvanquishedAssets/res-voices_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-voices_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-voices_src.dpkdir/pulls)
+[`res-weapons_src.dpkdir`](https://github.com/UnvanquishedAssets/res-weapons_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/res-weapons_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/res-weapons_src.dpkdir/pulls)
+[`tex-all_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-all_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-all_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-all_src.dpkdir/pulls)
+[`tex-common_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir/pulls)
+[`tex-ej01_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir/pulls)
+[`tex-exm_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-exm_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-exm_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-exm_src.dpkdir/pulls)
+[`tex-ex_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir/pulls)
+[`tex-pk01_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-pk01_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-pk01_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-pk01_src.dpkdir/pulls)
+[`tex-pk02_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-pk02_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-pk02_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-pk02_src.dpkdir/pulls)
+[`tex-space_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir/pulls)
+[`tex-tech_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-tech_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-tech_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-tech_src.dpkdir/pulls)
+[`tex-trak5_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-trak5_src.dpkdir/pulls)
+[`tex-vega_src.dpkdir`](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/tex-vega_src.dpkdir/pulls)
+[`unvanquished_src.dpkdir`](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir) | [issues](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir/issues) | [merges](https://github.com/UnvanquishedAssets/unvanquished_src.dpkdir/pulls)
 
 
-How-to
-------
+Fetching, building, packaging
+-----------------------------
 
 To fetch assets you need the [`git`](https://git-scm.com/) version control system, and to build them you need the [`urcheon`](https://github.com/DaemonEngine/Urcheon) build tool, and its dependencies.
 
@@ -57,49 +59,64 @@ cd UnvanquishedAssets
 ### Clone every package
 
 ```
-make clone
+git submodule update --init --recursive
 ```
 
 ### Fetch updates for every package
 
 ```
-make fetch
+git submodule foreach git fetch
 ```
 
 ### Checkout reference for every package
 
-It defaults to `master` if `GIT_REF` is not set
-
 ```
-make checkout GIT_REF='unvanquished/0.51.1'
+git submodule foreach git checkout 'unvanquished/0.51.1'
 ```
 
-### Prepare assets for mapping (generate preview images and shaders for example)
+### Prepare assets for mapping (generate IQM models and materials for example)
 
 ```sh
-make prepare
+urcheon prepare src/*.dpkdir
 ```
 
-You can now use `src/` as a pakpath in `radiant` and with `q3map2`.
+You can now use `src/` as a pakpath with `netradiant` and with `q3map2`.
 
 ### Build test dpkdir (using final formats) for every package
 
 ```sh
-make build
+urcheon build src/*.dpkdir
 ```
 
-You can now use `build/test` as pakpath in `daemon`.
+You can now use `build/test` as pakpath with `daemon`.
+
+### Build delta test dpkdir for everything but maps, and complete dpkdir for maps
+
+```sh
+shopt -s extglob
+urcheon build -r 'unvanquished/0.51.1' src/!(map-*).dpkdir
+urcheon build src/map-*.dpkdir
+```
+
 
 ### Packaging final release dpk for every package
 
 ```sh
-make package
+urcheon package src/*.dpkdir
 ```
 
-You can now use `build/pkg` as pakpath in `daemon`
+You can now use `build/pkg` as pakpath with `daemon`
+
+
+### Cleaning built files
+
+
+```sh
+urcheon clean src/*.dpkdir
+```
 
 
 Credits
 -------
 
-* The [Unvanquished team](https://unvanquished.net/?page_id=336)
+* The [Unvanquished team](https://unvanquished.net/about/)
