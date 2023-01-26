@@ -40,6 +40,9 @@
 [submodule "src/res-legacy_src.dpkdir"]
 	path = src/res-legacy_src.dpkdir
 	url = ../res-legacy_src.dpkdir
+[submodule "src/res-leveleditor_src.dpkdir"]
+	path = src/res-leveleditor_src.dpkdir
+	url = ../res-leveleditor_src.dpkdir.git
 [submodule "src/res-players_src.dpkdir"]
 	path = src/res-players_src.dpkdir
 	url = ../res-players_src.dpkdir
