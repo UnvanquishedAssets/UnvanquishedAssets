@@ -1,6 +1,6 @@
 /XMLDump.xml
 /build/
-/pkg/
-/src/maps/
-/src/prefabs/
-/src/scripts/
+/pkg/def/
+/pkg/maps/
+/pkg/prefabs/
+/pkg/scripts/
