@@ -88,6 +88,3 @@
 [submodule "src/tex-vega_src.dpkdir"]
 	path = src/tex-vega_src.dpkdir
 	url = ../tex-vega_src.dpkdir
-[submodule "src/unvanquished_src.dpkdir"]
-	path = src/unvanquished_src.dpkdir
-	url = ../unvanquished_src.dpkdir
