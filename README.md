@@ -71,21 +71,21 @@ git submodule foreach git fetch
 ### Checkout reference for every package
 
 ```
-git submodule foreach git checkout 'unvanquished/0.51.1'
+git submodule foreach git checkout 'unvanquished/0.54.1'
 ```
 
 ### Prepare assets for mapping (generate IQM models and materials for example)
 
 ```sh
-urcheon prepare src/*.dpkdir
+urcheon prepare pkg/*.dpkdir
 ```
 
-You can now use `src/` as a pakpath with `netradiant` and with `q3map2`.
+You can now use `pkg/` as a pakpath with `netradiant` and with `q3map2`.
 
 ### Build test dpkdir (using final formats) for every package
 
 ```sh
-urcheon build src/*.dpkdir
+urcheon build pkg/*.dpkdir
 ```
 
 You can now use `build/test` as pakpath with `daemon`.
@@ -94,25 +94,25 @@ You can now use `build/test` as pakpath with `daemon`.
 
 ```sh
 shopt -s extglob
-urcheon build -r 'unvanquished/0.51.1' src/!(map-*).dpkdir
-urcheon build src/map-*.dpkdir
+urcheon build -r 'unvanquished/0.54.1' pkg/!(map-*).dpkdir
+urcheon build pkg/map-*.dpkdir
 ```
 
 
 ### Packaging final release dpk for every package
 
 ```sh
-urcheon package src/*.dpkdir
+urcheon package pkg/*.dpkdir
 ```
 
-You can now use `build/pkg` as pakpath with `daemon`
+You can now use `build/_pakdir/pkg` as pakpath with `daemon`.
 
 
 ### Cleaning built files
 
 
 ```sh
-urcheon clean src/*.dpkdir
+urcheon clean pkg/*.dpkdir
 ```
 
 
